@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-reginfo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "reginfo MCP — the Unified Agenda of Federal Regulatory and Deregulatory",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-ab15f1ddd1c189dd97be7c7395444294f08b2b28b418e5ce3e3d317995b3f70b",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }

@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/reginfo",
   "title": "Reginfo",
   "description": "reginfo MCP — the Unified Agenda of Federal Regulatory and Deregulatory",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/reginfo",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-reginfo",
