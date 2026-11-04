@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-reginfo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "reginfo MCP — the Unified Agenda of Federal Regulatory and Deregulatory Actions, from reginfo.gov (OIRA). Every RIN (Regulation Identifier Number) every federal agency has told OIRA it intends to act on, published biannually since Fall 1995.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "reginfo",
     "gatewaySlug": "reginfo",
-    "sourceHash": "v1-413767f5ada8d2ef14334e2c855a2d80e52aa65c77496d2d0a491db7d1bf1855",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-1fa1b4ec7a8f24941a5bee3565a31dfb82347be73b8620def519dd693b8a6c83",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
